@@ -1,6 +1,6 @@
 # Sunscreen Usage and Attitudes Statistical Analysis
 
-This project presents a full end-to-end statistical analysis of a large-scale sunscreen usage and attitudes survey conducted in collaboration with a Stony Brook University School of Medicine research team. The goal was to identify behavioral, knowledge-based, and structural drivers of sunscreen use, producing clinically interpretable results suitable for publication.
+This project presents a full end-to-end statistical analysis of a large-scale sunscreen usage and attitudes survey conducted in collaboration with a Stony Brook University School of Medicine research team. The goal was to identify behavioral, knowledge-based, and structural drivers of sunscreen use, producing clinically interpretable results suitable for publication. The analysis is documented in the accompanying PDF report, which contains all data cleaning, feature engineering, and data transformation, which is necessary before modeling and diagnostics.
 
 ## Project Overview
 * **Objective**: Identify key drivers and barriers to sunscreen use and prevention behaviors.
